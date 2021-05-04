@@ -1,2 +1,2 @@
 # test
-This is a test
+This repository was created for the purpose of practicing git skills.
